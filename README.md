@@ -1,4 +1,4 @@
-# Chanidushika-Ramananda
+
 <h1 align="center">Hi 👋, I'm Chaniduahika Ramananda</h1>
 <h3 align="center">A passionate IT undergraduate student from Sri Lanka</h3>
 
